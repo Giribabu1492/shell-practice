@@ -17,3 +17,10 @@ echo $name
 HOSTNAME=$(hostname)
 
 echo "$HOSTNAME"
+
+
+# constat variable
+
+readonly college="SN"
+
+echo "$college"
