@@ -34,5 +34,5 @@ echo "printng specfic values:${myarray[*]:0:2}"
 myarray+=("ram" "shyam")
 
 
-echo"values of new array are ${myarray[*]}"
+echo "values of new array are ${myarray[*]}"
 
