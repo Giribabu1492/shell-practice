@@ -21,3 +21,8 @@ echo $mul
 let sum=$x+$y
 
 echo $sum
+
+
+#other way
+
+echo "(($x-$y))"
