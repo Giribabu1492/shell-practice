@@ -19,7 +19,7 @@ HOSTNAME=$(hostname)
 echo "$HOSTNAME"
 
 
-# constat variable
+# constant variable
 
 readonly college="SN"
 
