@@ -32,5 +32,5 @@ echo "number of values in the array is ${#myarray[*]}"
 
 #specific values
 
-echo "printng specfic values:${myarray[*]:2:3}"
+echo "printng specfic values:${myarray[*]:0:2}"
 
