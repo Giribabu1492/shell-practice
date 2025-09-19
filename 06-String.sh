@@ -11,3 +11,8 @@ echo "lowercase:${upper,,}"
 echo "uppercase:${upper^^}"
 
 
+#replace a string
+
+newvar=${myvar/madhu/raaji}
+
+echo "$newvar"
