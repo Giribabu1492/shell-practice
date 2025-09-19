@@ -1,12 +1,11 @@
 #!/bin/bash
 
-marks=100
 
-if [ $marks -gt 40 ]  
+read -p "enter your marks"  marks
 
-echo "you are pass"
-
+if [ $marks -gt 40 ] 
 then
+echo "you are pass"
  echo "you fail"
 fi
 
