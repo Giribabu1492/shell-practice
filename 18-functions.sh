@@ -1,10 +1,18 @@
 #!/bin/bash
 
-function welcome {
+# function welcome {
 
-echo "hello world"
-echo "hello world"
+# echo "hello world"
+# echo "hello world"
 
+
+# }
+
+
+welcome(){
+
+echo "hi hello"
+echo "hi hello"
 
 }
 
