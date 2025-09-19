@@ -7,3 +7,5 @@ a=45
 name='rahul'
 
 echo $name$a$age
+
+name='giri'
