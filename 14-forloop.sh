@@ -13,8 +13,8 @@ echo "name is $name"
 done
 
 
-for i in {1...5}
+for i in {1..5}
 
 do 
-echo "print $i"
+echo "print: $i"
 done
