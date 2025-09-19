@@ -11,3 +11,9 @@ echo $name$a$age
 name='giri'
 
 echo $name
+
+# to store output
+
+HOSTNAME=$(hostname)
+
+echo "$HOSTNAME"
