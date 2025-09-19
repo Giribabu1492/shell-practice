@@ -1,7 +1,7 @@
 #!/bin/bash
 myname="giribabu, shrihan usha"
 
-myvar=${#myname}
+myvar="count the length of the string : ${#myname}"
 
 echo "$myvar"
 
