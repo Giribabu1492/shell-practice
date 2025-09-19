@@ -35,4 +35,3 @@ myarray+=("ram" "shyam")
 
 
 echo "values of new array are ${myarray[*]}"
-
