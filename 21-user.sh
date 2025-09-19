@@ -8,4 +8,4 @@
 echo "usrename $1"
 
 shift
-echo "description $@"
+echo "description $ @"
