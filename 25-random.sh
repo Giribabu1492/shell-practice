@@ -13,7 +13,7 @@ echo "number is $num"
 
 
 
-if [[ $uid -eq 0 ]]
+if [[ $UID -eq 0 ]]
 then
 echo "user is root"
 else
