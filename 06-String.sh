@@ -1,5 +1,5 @@
 #!/bin/bash
-myname="giribabu shrihan usha"
+myname="giribabu, shrihan usha"
 
 myvar=${#myname}
 
@@ -15,4 +15,4 @@ echo "uppercase:${upper^^}"
 
 newvar=${myname/madhu/raaji}
 
-echo "$newvar"
+echo "$myname"
