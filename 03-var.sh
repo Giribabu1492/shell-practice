@@ -9,3 +9,5 @@ name='rahul'
 echo $name$a$age
 
 name='giri'
+
+echo $name
