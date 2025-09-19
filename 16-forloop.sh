@@ -2,7 +2,7 @@
 
 myarray=(1 2 3 )
 
-length=${#myarray}
+length=${#myarray[*]}
 
 for (( i=0; i<$length;i++))
 do
