@@ -22,3 +22,10 @@ echo "${arr[*]}"
 kuchbhi=(67 'iu' 'jui' 09 27)
 
 echo "${kuchbhi[*]}"
+
+
+# length of the array
+
+
+
+echo "number of values in the array is ${#myarray[*]}"
