@@ -6,4 +6,14 @@ echo "${myarray[0]}"
 echo "${myarray[1]}"
 echo "${myarray[3]}"
 
+
+
 echo "${myarray[*]}"
+
+
+echo "${myarray[2]}"
+
+
+arr=(18 16 19 10)
+
+echo "${arr[*]}"
