@@ -6,3 +6,4 @@ echo "${myarray[0]}"
 echo "${myarray[1]}"
 echo "${myarray[3]}"
 
+echo "${myarray[*]}"
