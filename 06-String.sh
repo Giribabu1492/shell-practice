@@ -13,7 +13,7 @@ echo "uppercase:${upper^^}"
 
 #replace a string
 
-newvar=${myname/madhu/raaji}
+new=${myname/madhu/raaji}
 
 echo "$myname"
 
