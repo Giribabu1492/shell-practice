@@ -25,4 +25,4 @@ echo $sum
 
 #other way
 
-echo "(($x-$y))"
+echo "$(($x-$y))"
