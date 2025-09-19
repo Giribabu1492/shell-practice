@@ -23,9 +23,9 @@ welcome
 myangle(){
 
 echo "welcome......$1"
-echo "welcome......$2"
+echo "age......$2"
 
 }
 
-myangle ram
-myangle shyam
+myangle ram 15
+myangle shyam 63
