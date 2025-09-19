@@ -11,3 +11,10 @@ for name in "rau" "sam" "abu"
 do
 echo "name is $name"
 done
+
+
+for i in {1...5}
+
+do 
+echo "print $i"
+done
