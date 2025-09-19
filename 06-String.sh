@@ -16,3 +16,12 @@ echo "uppercase:${upper^^}"
 newvar=${myname/madhu/raaji}
 
 echo "$myname"
+
+
+# removing praticing
+
+raju="hihellohowru"
+
+echo "after slice ${raju:4:7}"
+
+
