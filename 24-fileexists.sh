@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-FILEPATH="/home/ec2-user/shell-practice/names.txt"
+FILEPATH="/home/ec2-user/shell-practice/nawmes.txt"
 
 if [ -f $FILEPATH ]
 then
