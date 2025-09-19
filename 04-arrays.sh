@@ -28,4 +28,4 @@ echo "${kuchbhi[*]}"
 
 
 
-echo "number of values in the array is ${#myarray[*]}"
+echo "number of values in the array is ${#myarray[2]}"
