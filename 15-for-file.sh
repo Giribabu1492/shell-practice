@@ -5,7 +5,7 @@
 
 FILE="/home/ec2-user/shell-practice/names.txt"
 
-chmod +x names.txt
+chmod +r names.txt
 
 for i in $(cat |$FILE)
 do
