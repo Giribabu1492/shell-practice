@@ -17,3 +17,8 @@ echo "${myarray[2]}"
 arr=(18 16 19 10)
 
 echo "${arr[*]}"
+
+
+kuchbhi=(67 'iu' 'jui' 09 27)
+
+echo "${kuchbhi[*]}"
