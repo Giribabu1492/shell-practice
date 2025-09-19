@@ -14,11 +14,6 @@ echo "${myarray[*]}"
 echo "${myarray[2]}"
 
 
-arr=(18 16 19 10)
-
-echo "${arr[*]}"
-
-
 kuchbhi=(67 'iu' 'jui' 09 27)
 
 echo "${kuchbhi[*]}"
@@ -33,4 +28,11 @@ echo "number of values in the array is ${#myarray[*]}"
 #specific values
 
 echo "printng specfic values:${myarray[*]:0:2}"
+
+
+#adding last elelments to an array
+myarray+=("ram" "shyam")
+
+
+echo"values of new array are ${myarray[*]}"
 
