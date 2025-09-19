@@ -11,7 +11,7 @@ for i in $(cat $FILE)
 do
 echo "name is $i"
 
-done
+done 
 
 
 
