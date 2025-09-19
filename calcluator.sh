@@ -6,7 +6,7 @@ read -r -p "enter the values" num2
 
 function add(){
 
-echo "$num1+$num2"
+echo "${num1}+${num2}"
 
 
 }
