@@ -10,7 +10,7 @@ echo "${myArray[age]}"
 
 declare -A mybaby
 
-mybaby=(name[shrihan] age[1])
+mybaby=( [name]=shrihan [age]=1)
 
 echo "${mybaby[name]}"
- echo "${mybaby[age]}"
+echo "${mybaby[age]}"
