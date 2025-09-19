@@ -18,3 +18,14 @@ echo "hi hello"
 
 
 welcome
+
+
+myangle(){
+
+echo "welcome......$1"
+echo "welcome......$2"
+
+}
+
+myangle ram
+myangle shyam
