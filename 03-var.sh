@@ -24,3 +24,7 @@ echo "$HOSTNAME"
 readonly college="SN"
 
 echo "$college"
+
+college="meta"
+
+echo "$college"
